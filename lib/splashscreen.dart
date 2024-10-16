@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import "package:flutter_spinkit/flutter_spinkit.dart";
 import 'package:intl/intl.dart';
-import 'mobilehome.dart';
 import 'newslistpage.dart';
 
 class SplashScreen extends StatefulWidget {
